@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "hugopeyron_An_app_icon_for_iPhone_with_a_super_cute_baby_raven__9e6589f7-4c56-4b36-9b61-09dd9fe78de8 Background Removed.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
